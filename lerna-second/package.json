@@ -2,6 +2,7 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "@storybook/vue": "^5.2.1",
     "lerna": "^3.16.4"
   }
 }
