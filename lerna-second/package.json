@@ -7,6 +7,7 @@
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@storybook/vue": "^5.2.1",
+    "@vue/cli-service": "^3.11.0",
     "babel-loader": "^8.0.6",
     "babel-preset-vue": "^2.0.2",
     "lerna": "^3.16.4",
